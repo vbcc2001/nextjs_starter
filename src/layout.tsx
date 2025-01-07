@@ -1,5 +1,5 @@
 // src/layout.tsx
-import './styles/global.css';
+// import './styles/global.css';
 import { ReactNode } from 'react';
 
 type LayoutProps = {

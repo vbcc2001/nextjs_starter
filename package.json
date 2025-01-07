@@ -1,8 +1,7 @@
 {
-  "name": "nextjs-starter",
-  "version": "1.0.0",
+  "name": "vbcc-nextjs-starter",
+  "version": "1.0.1",
   "description": "nextjs 脚手架",
-  "private": true,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
